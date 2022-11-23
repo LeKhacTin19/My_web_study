@@ -1,0 +1,11 @@
+form {
+    padding-top: 10px;
+}
+form>button {
+    background-color: blue;
+    color: aliceblue;
+}
+body {
+    background: green;
+    color: white;
+}
